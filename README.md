@@ -62,6 +62,25 @@ This project supports:
 **MIT-A+ Ethical License (Custom Hybrid)**  
 > “This software and its derivatives shall not be used for military, surveillance, or unethical purposes,  
 > or in any way that infringes upon human rights or the creative freedom of others.”
+>
+> ---
+
+### License & Ethics
+
+This project is released under the **MIT-A+ Ethical License (v1.0, 2025)**  
+Authored by **Gkoran Stoilkovits** | Facilitator: **ChatGPT (by OpenAI)**  
+
+> *“This software and its spirit shall serve creation, not destruction.”*  
+
+Use of this software implies agreement with its **Ethical Clause**,  
+which protects artistic freedom, human dignity, and the planet.  
+
+📜 Full license: [MIT-A+ ETHICAL LICENSE](./LICENSE)  
+🔐 [SHA256 Placeholder]  
+✍️ [Digital Signature Field – reserved for author verification]
+
+---
+
 
 ---
 
